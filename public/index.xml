@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>N-Coherent Thoughts</title><link>pkamara.me/</link><description>N-Coherent Thoughts</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 14 Jun 2021 15:53:36 +0100</lastBuildDate><atom:link href="pkamara.me/index.xml" rel="self" type="application/rss+xml"/><item><title>Hello World!</title><link>pkamara.me/posts/hello-world/</link><pubDate>Mon, 14 Jun 2021 15:53:36 +0100</pubDate><guid>pkamara.me/posts/hello-world/</guid><description>&lt;p>Hello World!&lt;/p></description></item><item><title/><link>pkamara.me/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>pkamara.me/about/</guid><description>&lt;h1 id="hi-im-pelanyo">Hi, I&amp;rsquo;m Pelanyo!&lt;/h1>
+&lt;p>I&amp;rsquo;m a Computer Science student at Swansea University and an intern at Microsoft London.&lt;/p>
+&lt;h2 id="what-is-this">What is this?&lt;/h2>
+&lt;p>This is a collection of random thoughts and ideas primarily related to technology and engineering but can easily go off on more wild tangents&lt;/p>
+&lt;h2 id="can-i-contact-you">Can I contact you?&lt;/h2>
+&lt;p>Of course, feel free to email me at &lt;a href="mailto:pkamara@disroot.org">pkamara@disroot.org&lt;/a> about anything!&lt;/p>
+&lt;pre>&lt;code>-----BEGIN PGP PUBLIC KEY BLOCK-----
+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
+=ArHv
+-----END PGP PUBLIC KEY BLOCK-----
+&lt;/code>&lt;/pre></description></item></channel></rss>
