@@ -27,10 +27,11 @@ menu:
           weight: 2
 
 params:
+    env: production
     author: 'Pelanyo Kamara'
     email: pkamara@disroot.org # used for microformats
-    avatar: '/images/me.png' # used for microformats
-    description: 'asdasd'
+    #avatar: '/images/me.png' # used for microformats
+    description: 'Stuff'
     images:
         - images/og-featured.png # relative path to "static" directory
     dateFormat: '2006-01-02'
