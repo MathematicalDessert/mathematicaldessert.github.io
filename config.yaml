@@ -1,7 +1,7 @@
-languageCode: "en-us"
-baseUrl: "pkamara.me"
-title: "N-Coherent Thoughts"
-theme: "anubis"
+languageCode: 'en-us'
+baseUrl: ''
+title: 'N-Coherent Thoughts'
+theme: 'anubis'
 paginate: 10
 #disqusShortname: "yourdiscussshortname"
 #googleAnalytics: "G-12345"
@@ -9,45 +9,45 @@ enableRobotsTXT: true
 enableEmoji: true
 
 menu:
-  main:
-  - identifier: home
-    name: Home
-    title: Home
-    url: /
-    weight: -100
-  - identifier: about
-    name: About
-    title: About
-    url: /about/
-    weight: 1
-  - identifier: archive
-    name: Archive
-    title: Archive
-    url: /posts/
-    weight: 2
+    main:
+        - identifier: home
+          name: Home
+          title: Home
+          url: /
+          weight: -100
+        - identifier: about
+          name: About
+          title: About
+          url: /about/
+          weight: 1
+        - identifier: archive
+          name: Archive
+          title: Archive
+          url: /posts/
+          weight: 2
 
 params:
-  author: "Pelanyo Kamara"
-  email: pkamara@disroot.org # used for microformats
-  avatar: "/images/me.png" # used for microformats
-  description: "asdasd"
-  images:
-    - images/og-featured.png # relative path to "static" directory
-  dateFormat: "2006-01-02"
-  paginationSinglePost: true
-  style: dark
-  readMore: true
-  disableSummary: false
-  # utteranc.es support
-  utterancesRepo: ""  # mandatory
-  utterancesTheme: "" # optional
-  utterancesIssue: "" # optional
-  utterancesLabel: "" # optional
-  social:
-  - id: github
-    name: MathematicalDessert
+    author: 'Pelanyo Kamara'
+    email: pkamara@disroot.org # used for microformats
+    avatar: '/images/me.png' # used for microformats
+    description: 'asdasd'
+    images:
+        - images/og-featured.png # relative path to "static" directory
+    dateFormat: '2006-01-02'
+    paginationSinglePost: true
+    style: dark
+    readMore: true
+    disableSummary: false
+    # utteranc.es support
+    utterancesRepo: '' # mandatory
+    utterancesTheme: '' # optional
+    utterancesIssue: '' # optional
+    utterancesLabel: '' # optional
+    social:
+        - id: github
+          name: MathematicalDessert
 
 markup:
-  goldmark:
-    renderer:
-      unsafe: true # enable raw HTML in Markdown
+    goldmark:
+        renderer:
+            unsafe: true # enable raw HTML in Markdown
